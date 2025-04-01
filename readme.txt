@@ -22,11 +22,7 @@ FIRST Download
 
 7.Run the script http://localhost/video_sharing
 
-**LOGIN DETAILS** 
 
-Admin
-user: admin
-pass: admin123	
 
 create your own user
 
